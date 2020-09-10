@@ -1,3 +1,4 @@
+
 function sumar() 
 {
     //Recibir los datos
@@ -9,5 +10,6 @@ function sumar()
 
     //Entregar el resultado
     document.getElementById("resulOperacion").innerHTML = resultado
-    
+
+
 }
